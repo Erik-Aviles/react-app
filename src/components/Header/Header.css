@@ -1,0 +1,16 @@
+.Header-container{
+    display: flex;
+}
+.light-mode{
+    background: white;
+    color: #282c34;
+}
+
+.dark-mode{
+    background: #282c34;
+    color: white;
+}
+.svg{
+    width: 2em;
+    height: 2em;
+}
